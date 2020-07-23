@@ -1,9 +1,10 @@
-![animated]('')
-### Hi ! I am a student in software engineering ! Currently in my second semester.
+![animated]('https://https://github.com/NicolasD09/nicolasd09/blob/master/assets/video_github.gif')
+## Hi ! I am a student in software engineering !  
+### Currently in my second semester.
 
-👨🏼‍💻 building <!--[My portfolio][portfolio]-->  My portfolio
-🧠 learning [VueJS][vuejs] and [NuxtJS][nuxtjs]  
-💜 loving [VueJS][vuejs], UI Design  
+👨🏼‍💻 Building <!--[My portfolio][portfolio]-->  My portfolio  
+🧠 Learning [VueJS][vuejs] and [NuxtJS][nuxtjs]  
+💜 Loving [VueJS][vuejs], UI Design  
 
 <!-- 🏡 [website][website] **|**  -->
 🐦 [twitter][twitter] **|** 
