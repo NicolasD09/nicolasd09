@@ -1,16 +1,20 @@
-### Hi there 👋
+![animated]('')
+### Hi ! I am a student in software engineering ! Currently in my second semester.
 
-<!--
-**NicolasD09/nicolasd09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨🏼‍💻 building <!--[My portfolio][portfolio]-->  My portfolio
+🧠 learning [VueJS][vuejs] and [NuxtJS][nuxtjs]  
+💜 loving [VueJS][vuejs], UI Design  
 
-Here are some ideas to get you started:
+<!-- 🏡 [website][website] **|**  -->
+🐦 [twitter][twitter] **|** 
+🎥 [twitch][twitch] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[vuejs]: http://https://vuejs.org/
+[portfolio]: https://murphee.netlify.app
+[nuxtjs]: https://https://nuxtjs.org/
+[twitter]: https://twitter.com/NDX_dev
+[twitch]: https://twitch.tv/ndx_dev
+[instagram]: https://instagram.com/nic_ndx
+[linkedin]: https://linkedin.com/in/nicdx-dev
