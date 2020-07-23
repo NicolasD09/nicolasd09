@@ -1,4 +1,4 @@
-![animated]('https://https://github.com/NicolasD09/nicolasd09/blob/master/assets/video_github.gif')
+![animated](https://https://github.com/NicolasD09/nicolasd09/blob/master/assets/video_github.gif)
 ## Hi ! I am a student in software engineering !  
 ### Currently in my second semester.
 
