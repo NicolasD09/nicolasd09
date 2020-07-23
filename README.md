@@ -1,4 +1,4 @@
-![animated](/assets/video_github.gif)
+![animated](video_github.gif)
 ## Hi ! I am a student in software engineering !  
 ### Currently in my second semester.
 
