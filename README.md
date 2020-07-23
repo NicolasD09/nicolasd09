@@ -1,4 +1,4 @@
-![animated](video_github.gif)
+![animated](https://media.giphy.com/media/iH6bBb8FoIazylJEHj/giphy.gif)
 ## Hi ! I am a student in software engineering !  
 ### Currently in my second semester.
 
