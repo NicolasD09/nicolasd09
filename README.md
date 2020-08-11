@@ -20,6 +20,11 @@ ___
 [instagram]: https://instagram.com/nic_ndx
 [linkedin]: https://linkedin.com/in/nicdx-dev  
 
+![My github stats](https://github-readme-stats.vercel.app/api?username=nicolasd09&show_icons=true&theme=prussian)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolasd09&repo=vue-weather-app)](https://github.com/anuraghazra/github-readme-stats)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolasd09&repo=temp_converter)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Technologies I learned :
 
