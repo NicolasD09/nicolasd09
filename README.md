@@ -1,6 +1,6 @@
 ![animated](https://media.giphy.com/media/iH6bBb8FoIazylJEHj/source.gif)
 ## Hi ! I am a student in Software Engineering !  
-### Currently in my second semester.
+### Currently in my second term.
 ___
 👨🏼‍💻 Building : [My portfolio][website] /!\ Under construction /!\  
 🧠 Learning : [VueJS][vuejs] and [NuxtJS][nuxtjs]  
@@ -14,7 +14,7 @@ ___
 
 [vuejs]: http://https://vuejs.org/
 [website]: https://nicdx.dev
-[nuxtjs]: https://https://nuxtjs.org/
+[nuxtjs]: https://nuxtjs.org/
 [twitter]: https://twitter.com/NDX_dev
 [twitch]: https://twitch.tv/ndx_dev
 [instagram]: https://instagram.com/nic_ndx
