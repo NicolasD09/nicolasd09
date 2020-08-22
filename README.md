@@ -3,8 +3,8 @@
 ### Currently in my second term.
 ___
 👨🏼‍💻 Building : [My portfolio][website] /!\ Under construction /!\  
-🧠 Learning : [VueJS][vuejs] and [NuxtJS][nuxtjs]  
-💜 Loving : [VueJS][vuejs], UI/UX Design, Graphic Design  
+🧠 Learning : [VueJS][vuejs], [NuxtJS][nuxtjs] and [Tailwind][tailwind]  
+💜 Loving : [VueJS][vuejs], UI/UX Design, Graphic Design and Web Development  
 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
@@ -15,6 +15,7 @@ ___
 [vuejs]: http://https://vuejs.org/
 [website]: https://nicdx.dev
 [nuxtjs]: https://nuxtjs.org/
+[tailwind]: https://www.tailwindcss.com
 [twitter]: https://twitter.com/NDX_dev
 [twitch]: https://twitch.tv/ndx_dev
 [instagram]: https://instagram.com/nic_ndx
@@ -33,6 +34,7 @@ ___
 _____
 ## Technologies I am learning :
 #### VueJS, NuxtJS
+### TailwindCSS, Graphql
 _____
 ## Technologies I want to learn :  
 #### GraphQL, Apollo
