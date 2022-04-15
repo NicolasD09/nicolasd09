@@ -1,6 +1,6 @@
 ![animated](https://media.giphy.com/media/iH6bBb8FoIazylJEHj/source.gif)
 ## Hi ! I am a student in Software Engineering !  
-### Currently in my second term.
+### Currently in my third term.
 ___
 👨🏼‍💻 Building : [My portfolio][website] /!\ Under construction /!\  
 🧠 Learning : [VueJS][vuejs], [NuxtJS][nuxtjs] and [Tailwind][tailwind]  
@@ -35,8 +35,8 @@ _____
 ## Technologies I am learning :
 #### VueJS, NuxtJS
 ### TailwindCSS, Graphql
+#### React
 _____
 ## Technologies I want to learn :  
 #### GraphQL, Apollo
-#### React, Svelte 
-#### Puppeteer
+
